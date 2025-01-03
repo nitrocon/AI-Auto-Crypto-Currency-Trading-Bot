@@ -17,8 +17,8 @@ total_profit = 0
 counter = 0
 profits = []
 # Binance API credentials
-api_key = "u4gyQyJFz59YesfarXMuyI9OE150fQzax2mCPxsFneXOfmSVKVvrIQVagHQtkMAB"
-api_secret = "EoSj3EE6mUHWlnyiArc4OLDJg8wURfGeoQD1tPi2KT5qki4agbwtTKNtqURqMQjD"
+api_key = "placeholder"
+api_secret = "placeholder"
 
 # Binance API endpoint URLs
 base_url = "https://api.binance.com"
